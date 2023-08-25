@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartNote</string>
+
+    <!-- HomeScreen  -->
+    <string name="title_HomeScreen">SmartNote</string>
+
+    <!-- TodoScreen  -->
+    <string name="title_TodoScreen">My Todo Title</string>
+
+</resources>
